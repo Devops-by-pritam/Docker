@@ -1,2 +1,2 @@
 # Docker
-docker resource.
+docker resources.
